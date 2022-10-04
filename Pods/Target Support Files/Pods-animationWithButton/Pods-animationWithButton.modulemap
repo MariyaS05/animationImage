@@ -1,0 +1,6 @@
+framework module Pods_animationWithButton {
+  umbrella header "Pods-animationWithButton-umbrella.h"
+
+  export *
+  module * { export * }
+}
